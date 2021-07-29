@@ -15,5 +15,5 @@ python3 main.py
 
 ### ScreenShot
 
-아래 스크린샷은 예시입니다.
+스크린샷은 예시입니다.
 ![Alarm](screenshot.png)
